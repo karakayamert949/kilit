@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kilit-data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c69fa2a6c2871c918a4bf0712bd136f15166d8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("kilit-data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kilit-data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

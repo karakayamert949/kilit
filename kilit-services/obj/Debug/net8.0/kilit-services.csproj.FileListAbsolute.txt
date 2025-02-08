@@ -1,0 +1,7 @@
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.csproj.AssemblyReference.cache
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.AssemblyInfoInputs.cache
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.AssemblyInfo.cs
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mert\source\repos\kilit\kilit-services\obj\Debug\net8.0\kilit-services.sourcelink.json

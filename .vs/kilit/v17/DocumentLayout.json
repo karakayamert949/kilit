@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mert\\source\\repos\\kilit\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-data\\data\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|solutionrelative:kilit-data\\data\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-data\\data\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|solutionrelative:kilit-data\\data\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 295,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "kilit-data\\Data\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "kilit-data\\Data\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:59:33.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "kilit-data\\Data\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Dto\\UserDto.cs",
+              "RelativeToolTip": "kilit-data\\Data\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:57:29.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "kilit-api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "kilit-api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:51:56.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\appsettings.json",
+              "RelativeDocumentMoniker": "kilit-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\appsettings.json",
+              "RelativeToolTip": "kilit-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T15:49:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Program.cs",
+              "RelativeDocumentMoniker": "kilit-api\\Program.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Program.cs",
+              "RelativeToolTip": "kilit-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:49:18.081Z",
+              "EditorCaption": ""
             }
           ]
         }
