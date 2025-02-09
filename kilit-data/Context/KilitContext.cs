@@ -16,6 +16,7 @@ namespace kilit_data.Context
         }
 
         public DbSet<User> User { get; set; }
+        public DbSet<UserLoginLog> UserLoginLog { get; set; }
 
     }
 }

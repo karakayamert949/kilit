@@ -1,4 +1,5 @@
 ﻿using kilit_data.Data.Entity;
+using kilit_data.Data.Model;
 
 namespace kilit_services.Services.Interfaces
 {
@@ -6,7 +7,7 @@ namespace kilit_services.Services.Interfaces
     {
         IEnumerable<User> Get();
         User GetById(int id);
-        void Add(User user);
+        void Add(SignupRequest request);
         void Remove(int id);
 
     }

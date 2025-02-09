@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mert\\source\\repos\\kilit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-data\\data\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|solutionrelative:kilit-data\\data\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCA08AD-F9DE-4B75-BD21-724795DDC436}|kilit-services\\kilit-services.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCA08AD-F9DE-4B75-BD21-724795DDC436}|kilit-services\\kilit-services.csproj|solutionrelative:kilit-services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-data\\data\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|solutionrelative:kilit-data\\data\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-data\\context\\kilitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|solutionrelative:kilit-data\\context\\kilitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5316BA44-DD6A-4EF2-93C2-4F5B05A5CA6B}|kilit-api\\kilit-api.csproj|solutionrelative:kilit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|c:\\users\\mert\\source\\repos\\kilit\\kilit-data\\kilit-data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5155512-C31B-42F7-B41E-FBB8EFDABE21}|kilit-data\\kilit-data.csproj|solutionrelative:kilit-data\\kilit-data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 295,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,65 +46,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "kilit-data\\Data\\Mapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "kilit-data\\Data\\Mapper\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "kilit-services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-services\\Services\\UserService.cs",
+              "RelativeToolTip": "kilit-services\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:59:33.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:17:45.822Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "kilit-data\\Data\\Dto\\UserDto.cs",
-              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Data\\Dto\\UserDto.cs",
-              "RelativeToolTip": "kilit-data\\Data\\Dto\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:57:29.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "kilit-api\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Controllers\\UserController.cs",
               "RelativeToolTip": "kilit-api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:51:56.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T15:57:43.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kilit-data.csproj",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\kilit-data.csproj",
+              "RelativeDocumentMoniker": "kilit-data\\kilit-data.csproj",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\kilit-data.csproj",
+              "RelativeToolTip": "kilit-data\\kilit-data.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T13:03:28.32Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "KilitContext.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Context\\KilitContext.cs",
+              "RelativeDocumentMoniker": "kilit-data\\Context\\KilitContext.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-data\\Context\\KilitContext.cs",
+              "RelativeToolTip": "kilit-data\\Context\\KilitContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:45:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\appsettings.json",
               "RelativeDocumentMoniker": "kilit-api\\appsettings.json",
               "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\appsettings.json",
               "RelativeToolTip": "kilit-api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-08T15:49:24.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T12:44:52.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Program.cs",
               "RelativeDocumentMoniker": "kilit-api\\Program.cs",
               "ToolTip": "C:\\Users\\mert\\source\\repos\\kilit\\kilit-api\\Program.cs",
               "RelativeToolTip": "kilit-api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T15:49:18.081Z",
               "EditorCaption": ""

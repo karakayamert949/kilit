@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "kilit-data": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54679;http://localhost:54680"
+    }
+  }
+}
